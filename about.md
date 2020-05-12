@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About
+title: COVID-19
 permalink: /about/
 ---
 
-Some information about you!
+Some information about COVID-19!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+A place to include any other types of information.
 
 ### Contact me
 
